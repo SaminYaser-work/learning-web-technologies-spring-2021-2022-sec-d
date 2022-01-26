@@ -1,0 +1,22 @@
+<!-- must have parent tag if there is more than one tag -->
+<students>
+
+    <!-- tag with attribute -->
+    <student id="1">
+        <name>Samin Yaser</name>
+        <age> 20 </age>
+        <email>saminyaserwork@gmail.com</email>
+
+        <!-- Self-closing tag -->
+        <test id="000" name="helloworld" />
+    </student>
+
+    <student id="2">
+        <name> XYZ</name>
+        <age> 21 </age>
+        <email>xyz@gmail.com</email>
+
+        <test id="123" name="foobar" />
+    </student>
+
+</students>
