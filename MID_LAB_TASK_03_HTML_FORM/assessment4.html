@@ -11,7 +11,28 @@
     <fieldset>
         <legend><b>Date of Birth</b></legend>
         <label for="dob">
-        <input type="date" name="dob" id=""> <br>
+            <table>
+                <tr align="center">
+                    <td>dd</td>
+                    <td></td>
+                    <td>mm</td>
+                    <td></td>
+                    <td>yyyy</td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="number" name="dd" id="" style="width: 30px;" min="1" max="31">
+                    </td>
+                    <td>/</td>
+                    <td>
+                        <input type="number" name="mm" id="" style="width: 30px;" min="1" max="12">
+                    </td>
+                    <td>/</td>
+                    <td>
+                        <input type="number" name="yyyy" id="" style="width: 40px;" min="1900" max="2050">
+                    </td>
+                </tr>
+            </table>
         <hr>
         <input type="submit" value="Submit">
         </label>
