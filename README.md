@@ -9,6 +9,8 @@
 *American University of Bangladesh - Dhaka*
 
 ## Assessments
+> Deployed web pages might take up to 5 minutes to update and reflect changes.
+
 ### HTML
 - [HTML Assessment 1](https://saminyaser-work.github.io/learning-web-technologies-spring-2021-2022-sec-d/MID_LAB_TASK_02_HTML/assessment1_page1.html) | [Source](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/tree/master/MID_LAB_TASK_02_HTML)
 - [HTML Assessment 2](https://saminyaser-work.github.io/learning-web-technologies-spring-2021-2022-sec-d/MID_LAB_TASK_02_HTML/assessment2_cv.html) | [Source](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/tree/master/MID_LAB_TASK_02_HTML)
