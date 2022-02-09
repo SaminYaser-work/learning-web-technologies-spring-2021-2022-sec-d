@@ -11,7 +11,13 @@
 ## Assessments
 > Deployed web pages might take up to 5 minutes to update and reflect changes.
 
+### XML
+- [Assessment 1](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_01_XML/Table_1.xml)
+- [Assessment 2](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_01_XML/Table_2.xml)
+- [Assessment 3](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_01_XML/Table_3.xml)
+
 ### HTML
+#### Table
 - [HTML Assessment 1](https://saminyaser-work.github.io/learning-web-technologies-spring-2021-2022-sec-d/MID_LAB_TASK_02_HTML/assessment1_page1.html) | [Source](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/tree/master/MID_LAB_TASK_02_HTML)
 - [HTML Assessment 2](https://saminyaser-work.github.io/learning-web-technologies-spring-2021-2022-sec-d/MID_LAB_TASK_02_HTML/assessment2_cv.html) | [Source](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/tree/master/MID_LAB_TASK_02_HTML)
 
@@ -26,6 +32,15 @@
 - [HTML Form Assessment 8](https://saminyaser-work.github.io/learning-web-technologies-spring-2021-2022-sec-d/MID_LAB_TASK_03_HTML_FORM/assessment8.html) | [Source](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/tree/master/MID_LAB_TASK_03_HTML_FORM/assessment8.html)
 
 
+### PHP
+- [Assessment 1](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_04_PHP/Assessment_1.php)
+- [Assessment 2](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_04_PHP/Assessment_2.php)
+- [Assessment 3](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_04_PHP/Assessment_3.php)
+- [Assessment 4](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_04_PHP/Assessment_4.php)
+- [Assessment 5](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_04_PHP/Assessment_5.php)
+- [Assessment 6](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_04_PHP/Assessment_6.php)
+- [Assessment 7](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_04_PHP/Assessment_7.php)
+- [Assessment 8](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_04_PHP/Assessment_8.php)
 
 ## Clone/Download Repo
 
