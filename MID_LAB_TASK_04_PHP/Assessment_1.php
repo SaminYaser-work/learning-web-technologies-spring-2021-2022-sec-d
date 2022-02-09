@@ -1,7 +1,7 @@
 <?php
 function areaOfRectangle($length, $width)
 {
-    if ($length <= 0 || $width <= 0) {
+    if ($length < 0 || $width < 0) {
         return -1;
     }
 
@@ -10,7 +10,7 @@ function areaOfRectangle($length, $width)
 
 function perimeterOfRectangle($length, $width)
 {
-    if ($length <= 0 || $width <= 0) {
+    if ($length < 0 || $width < 0) {
         return -1;
     }
 
