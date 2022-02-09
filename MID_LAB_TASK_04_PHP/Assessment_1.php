@@ -23,7 +23,7 @@ $width = readline("Enter the width: ");
 $area = areaOfRectangle($length, $width);
 $perimeter = perimeterOfRectangle($length, $width);
 
-if ($area == -1) {
+if ($area == -1 || $perimeter == -1) {
     echo "Length and width must be greater than zero";
 } else {
     echo "The area is: " . $area;
