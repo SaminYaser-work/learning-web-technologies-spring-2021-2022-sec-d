@@ -18,7 +18,22 @@ function printNumbers()
     }
 }
 
+function printLetters()
+{
+    $letter = "A";
+    for ($i = 0; $i < 3; $i++) {
+        $j = $i;
+        while ($j >= 0) {
+            echo $letter;
+            $letter++;
+            $j--;
+        }
+        echo "\n";
+    }
+}
+
 printStars();
 echo "\n";
 printNumbers();
 echo "\n";
+printLetters();
