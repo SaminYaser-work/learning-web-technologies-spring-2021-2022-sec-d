@@ -33,6 +33,7 @@
 
 
 ### PHP
+#### Basic
 - [Assessment 1](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_04_PHP/Assessment_1.php)
 - [Assessment 2](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_04_PHP/Assessment_2.php)
 - [Assessment 3](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_04_PHP/Assessment_3.php)
@@ -41,6 +42,38 @@
 - [Assessment 6](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_04_PHP/Assessment_6.php)
 - [Assessment 7](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_04_PHP/Assessment_7.php)
 - [Assessment 8](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_04_PHP/Assessment_8.php)
+
+#### Form Submission
+##### Assessment 1
+- [A](https://saminyaser-work.github.io/learning-web-technologies-spring-2021-2022-sec-d/MID_LAB_TASK_05_PHP_FORM/Assessment%201/assessment1_A.html) | Source: [HTML](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%201/assessment1_A.html) [PHP](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%201/assessment1_A.php)
+- [B](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%201/assessment1_B.php)
+- [C](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%201/assessment1_C.php)
+
+##### Assessment 2
+- [A](https://saminyaser-work.github.io/learning-web-technologies-spring-2021-2022-sec-d/MID_LAB_TASK_05_PHP_FORM/Assessment%202/assessment2_A.html) | Source: [HTML](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%202/assessment2_A.html) [PHP](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%202/assessment2_A.php)
+- [B](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%202/assessment2_B.php)
+- [C](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%202/assessment2_C.php)
+
+##### Assessment 3  
+- [A](https://saminyaser-work.github.io/learning-web-technologies-spring-2021-2022-sec-d/MID_LAB_TASK_05_PHP_FORM/Assessment%203/assessment3_A.html) | Source: [HTML](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%203/assessment3_A.html) [PHP](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%203/assessment3_A.php)
+- [B](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%203/assessment3_B.php)
+- [C](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%203/assessment3_C.php)
+
+##### Assessment 4
+- [A](https://saminyaser-work.github.io/learning-web-technologies-spring-2021-2022-sec-d/MID_LAB_TASK_05_PHP_FORM/Assessment%204/assessment4_A.html) | Source: [HTML](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%204/assessment4_A.html) [PHP](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%204/assessment4_A.php)
+- [B](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%204/assessment4_B.php)
+- [C](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%204/assessment4_C.php)
+
+##### Assessment 5
+- [A](https://saminyaser-work.github.io/learning-web-technologies-spring-2021-2022-sec-d/MID_LAB_TASK_05_PHP_FORM/Assessment%205/assessment5_A.html) | Source: [HTML](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%205/assessment5_A.html) [PHP](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%205/assessment5_A.php)
+- [B](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%205/assessment5_B.php)
+- [C](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%205/assessment5_C.php)
+
+##### Assessment 6
+- [A](https://saminyaser-work.github.io/learning-web-technologies-spring-2021-2022-sec-d/MID_LAB_TASK_05_PHP_FORM/Assessment%206/assessment6_A.html) | Source: [HTML](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%206/assessment6_A.html) [PHP](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%206/assessment6_A.php)
+- [B](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%206/assessment6_B.php)
+- [C](https://github.com/SaminYaser-work/learning-web-technologies-spring-2021-2022-sec-d/blob/master/MID_LAB_TASK_05_PHP_FORM/Assessment%206/assessment6_C.php)
+
 
 ## Clone/Download Repo
 
